@@ -1,4 +1,10 @@
 gitpractispractice:wq
+<<<<<<< HEAD
 second commi
 three
 four
+=======
+second commit
+five
+six
+>>>>>>> feature
